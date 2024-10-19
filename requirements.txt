@@ -1,4 +1,4 @@
 streamlit
-tenserflow
+tensorflow
 torchvision
 Pillow
